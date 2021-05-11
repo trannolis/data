@@ -1,9 +1,9 @@
 # Data Analysis
 
 ## NYU
-- Mining Massive Datasets
+- Mining Massive Datasets (MMDS)
 - Intro to Machine Learning
-- Fake News Prediction using Logistic Regression and Support-Vector-Machine
+- MMDS Final Project: Fake News Prediction using Logistic Regression and Support-Vector-Machine
 
 ## Detroit Real Estate 
 - Exploring Detroit Real Estate Data
